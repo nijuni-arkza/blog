@@ -13,3 +13,6 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed off-by-one error in loop
 - Updated license year
 - Resolved deprecation warnings
+
+## 2026-03-23
+- Cross-checked behaviour against spec
