@@ -25,3 +25,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Addressed feedback from self code review
 - Added healthcheck endpoint stub
+
+## 2026-03-30
+- Investigated performance bottleneck, noted findings
+- Fixed minor edge case in input handling
